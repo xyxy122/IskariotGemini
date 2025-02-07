@@ -256,3 +256,4 @@ messageForm.addEventListener('submit', (e) => {
 });
 
 loadSavedChatHistory();
+
